@@ -19,3 +19,4 @@ lockComment: >
 
 # Assign `resolved` as the reason for locking. Set to `false` to disable
 setLockReason: false
+# Unlocking by setting the values to true

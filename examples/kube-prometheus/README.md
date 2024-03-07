@@ -7,7 +7,7 @@ updates are applied to customize the configuration for AKS.
 ## Prerequisites
 
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) v3.8.7
-- kubectl
+- kubectl command update
 
 ## Installation
 

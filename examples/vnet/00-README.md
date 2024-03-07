@@ -30,6 +30,7 @@ export AKS_SUB=
 
 export AKS_RG=contoso-prod-eastus
 export AKS_NAME=aks-vnet01
+export AKS_NAME=aks-vnet02
 
 export AKS_VNET_RG=contoso-prod-eastus-vnet
 export AKS_VNET_LOCATION=eastus

@@ -8,3 +8,4 @@ spec:
   - bearerTokenFile: /var/run/secrets/kubernetes.io/serviceaccount/token
     interval: 15s
     targetPort: 9153
+# Destination DNS change

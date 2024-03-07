@@ -6,3 +6,4 @@ patchesStrategicMerge:
 - alertmanager-secret.yaml
 - node-exporter-daemonset.yaml
 - kubernetes-serviceMonitorCoreDNS_patch.yaml
+# End versioning

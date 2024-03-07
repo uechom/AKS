@@ -11,7 +11,7 @@ sensitivity.
 
 <!--
 
-Security issues should be reported to secure@microsoft.com and not via this public issue tracker.
+Security issues should be reported to secure@uechomprojects.com and not via this public issue tracker.
 
 -->
 

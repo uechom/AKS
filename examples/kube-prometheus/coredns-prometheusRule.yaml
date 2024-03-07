@@ -9,7 +9,7 @@ metadata:
   name: coredns-monitoring-rules
   namespace: monitoring
 spec:
-  # Copied from https://github.com/monitoring-mixins/website/blob/master/assets/coredns/alerts.yaml
+  # The yaml source from https://github.com/monitoring-mixins/website/blob/master/assets/coredns/alerts.yaml
   groups:
   - name: coredns
     rules:

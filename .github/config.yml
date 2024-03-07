@@ -7,3 +7,4 @@ sentimentBotToxicityThreshold: .7
 # *Required* Comment to reply with
 sentimentBotReplyComment: >
   Please be sure to review the [Code Of Conduct](https://opensource.microsoft.com/codeofconduct/) and be respectful of other users. cc/ @jnoller
+#policy updates

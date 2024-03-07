@@ -2,4 +2,5 @@ We ask the security research community to give us an opportunity to correct a vu
 
 Please email secure@microsoft.com to report any security-related issues. Do NOT post any security-related issues to this public issue queue.
 
+Appreciations!
 Thanks!

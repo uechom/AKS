@@ -45,3 +45,4 @@ spec:
         hostPath:
           path: /etc/apt/apt.conf.d/20auto-upgrades
           type: File
+              
